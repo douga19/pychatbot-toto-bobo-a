@@ -1,2 +1,3 @@
-# Modification sur le remote
-print("Hello world")
+from functions import hello
+
+hello()
