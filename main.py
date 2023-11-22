@@ -1,3 +1,3 @@
-from functions import hello
+from functions import hello, bug
 
-hello()
+bug()
